@@ -1,5 +1,5 @@
 print("Hello World!")
 Hello World!
-
-============================================================================= RESTART: C:/Users/Desiree/hellodes.py ============================================================================
+print("Hello Desiree!")
 Hello Desiree!
+print("Hello, class!")
